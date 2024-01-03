@@ -1,0 +1,56 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: black;
+
+}
+body{
+	
+	color: white;
+}
+.glyphicon{
+	font-size: 30px;
+	
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+
+.text-center{
+	font-size: 30px;
+    color: black;
+    padding-bottom: 20px;
+}
+
+h2{
+	text-align: center;
+}
+
+.navbar-brand{
+font-size: 30px;	
+}
+#chickstory{
+    background-color: rgba(231, 223, 7, 0.289);
+    color: black;
+    padding-bottom: 30px;
+    font-size: 16px;
+}
+#story{
+    background-color: rgba(231, 223, 7, 0.289);;
+    color: black;
+    padding-bottom: 30px;
+    font-size: 16px;
+}
+#tory{
+    background-color: rgba(231, 223, 7, 0.289);;
+    color: black;
+    font-size: 16px;
+}
